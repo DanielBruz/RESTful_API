@@ -1,0 +1,24 @@
+https://openweathermap.org/
+
+Daniel_Bruzenak
+daniel.bruzenak@tiscali.cz
+kK.6E?abV-_EmUG
+
+API name: API_for_Python
+
+Key: 487549dc21a0c881cf5588100de765c3
+
+Service:
+    Name: Weather
+    Description: Current weather and forecast
+    Price plan: Free plan
+    Limits: Hourly forecast: unavailable, Daily forecast: unavailable, Calls per minute: 60, 3 hour forecast: 5 days
+
+Current weather data: info https://openweathermap.org/current
+Call 5 day / 3 hour forecast data: info https://openweathermap.org/forecast5
+Weather maps 2.0: info https://openweathermap.org/api/weather-map-2
+Air Pollution API: info https://openweathermap.org/api/air-pollution
+Geocoding API: info https://openweathermap.org/api/geocoding-api
+
+Modul pro Python přímo pro openweathermap = https://github.com/csparpa/pyowm
+(PyOWM is a client Python wrapper library for the OpenWeatherMap)

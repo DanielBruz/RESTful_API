@@ -1,0 +1,8 @@
+print(data["status"])  # Vypíše: 200
+print(data["message"])  # Vypíše: "Success"
+
+# Přistup k uživatelům:
+users = data["data"]["users"]
+for user in users:
+    print(user["id"], user["name"], user["email"])
+
